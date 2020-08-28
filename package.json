@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-prevent-screenshot-android.git",
-    "baseUrl": "https://github.com/github_account/react-native-prevent-screenshot-android"
+    "url": "git+https://github.com/Yatanvesh/react-native-prevent-screenshot-android.git",
+    "baseUrl": "https://github.com/Yatanvesh/react-native-prevent-screenshot-android"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Yatan vesh",
+    "email": "yatan.vesh@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
@@ -37,4 +37,4 @@
     "react": "^16.9.0",
     "react-native": "^0.61.5"
   }
-}
+} 
